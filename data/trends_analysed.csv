@@ -1,0 +1,86 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+49506819,Breaking Claude Code Opus 5 Auto Mode,technology,122,30,Recursing,2026-08-31 17:43:19.223492,0.24390243902439024,False
+49508506,I Think the Military Commissary's Freezers Were Hacked,worldnews,21,10,jcurbo,2026-08-31 17:43:21.075233,0.45454545454545453,False
+49505219,P99 0 ms* autocomplete for 240M domain names,technology,153,64,dbalatero,2026-08-31 17:43:22.037246,0.4155844155844156,False
+49506182,"A 12TB Steam ""teraleak"" spills more than a decade of lost PC gaming history",sports,196,35,WithinReason,2026-08-31 17:43:26.640090,0.17766497461928935,True
+49475568,"Using floci to emulate Cloud platforms (GCP, AWS, Azure)",technology,7,0,linkdd,2026-08-31 17:43:30.499932,0.0,False
+49499867,Haiku R1/beta6 has been released,technology,338,95,metrofun,2026-08-31 17:43:31.475157,0.28023598820059,True
+49485020,Highlighting My Code Based on How Much I Care,technology,82,45,hankbond,2026-08-31 17:43:34.460735,0.5421686746987951,False
+49507121,Study: Blue light impairs the eye's ability to distinguish fine detail most,technology,8,9,giuliomagnifico,2026-08-31 17:43:36.397736,1.0,False
+49478426,Show HN: NFC Energy-Harvesting PCB Business Card with an MCU,science,186,19,WilsonHarper,2026-08-31 17:43:38.240357,0.10160427807486631,True
+49502214,Cores in space: The core memory module from a 1980 Spacelab computer,technology,116,19,pwg,2026-08-31 17:43:41.182144,0.1623931623931624,False
+49480091,It takes 5 cloud services to hear my doorbell,technology,191,173,vghaisas,2026-08-31 17:43:42.237473,0.9010416666666666,True
+49501611,Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver,technology,115,40,SillyUsername,2026-08-31 17:43:46.924415,0.3448275862068966,False
+49496918,Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel,technology,240,95,vntok,2026-08-31 17:43:55.322880,0.3941908713692946,True
+49496782,Longest Straight Line Paths on Water or Land on the Earth (2018),technology,206,59,joebig,2026-08-31 17:43:57.217685,0.28502415458937197,True
+49506519,Claude Code reduces it's weekly limit by 17% – compared to today,technology,41,19,partsch,2026-08-31 17:44:03.788887,0.4523809523809524,False
+49463397,Electric rain can eat through metal,technology,113,22,sohkamyung,2026-08-31 17:44:04.663838,0.19298245614035087,False
+49508151,Local AI Is Dead. You Are at the Funeral,technology,5,5,tosh,2026-08-31 17:44:06.518748,0.8333333333333334,False
+49499394,European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy,worldnews,431,180,nickslaughter02,2026-08-31 17:44:08.385498,0.4166666666666667,True
+49495372,California lawmakers unanimously pass Linux exemption from age-verification law,technology,753,371,shscs911,2026-08-31 17:44:11.218014,0.4920424403183024,True
+49498978,Europe's summer drought is so extreme that desertification is a growing threat,worldnews,315,388,Brajeshwar,2026-08-31 17:44:12.192281,1.2278481012658229,True
+49497819,An implementation of Conway's Game of Life for Windows 3.1x and later,sports,56,14,Bluestein,2026-08-31 17:44:13.046886,0.24561403508771928,False
+49474515,Synchronisation and SMPTE timecode (time code),technology,45,19,sublinear,2026-08-31 17:44:13.980122,0.41304347826086957,False
+49499831,Startup Anti-Patterns,technology,168,81,rzk,2026-08-31 17:44:15.027761,0.47928994082840237,True
+49430745,"JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",science,108,9,arjxn-py,2026-08-31 17:44:19.465818,0.08256880733944955,False
+49450461,Commercially Available Bike Generators Are Not Sustainable (2011),science,46,45,baud147258,2026-08-31 17:44:22.247745,0.9574468085106383,False
+49438865,"Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",entertainment,94,67,gbin,2026-08-31 17:44:36.896290,0.7052631578947368,False
+49504900,Pentagon installs military influencers in civilian roles,worldnews,29,2,dataflow,2026-08-31 17:44:40.023717,0.06666666666666667,False
+49506655,Meta Security Researcher's AI Agent Accidentally Deleted Her Emails,science,52,43,Bluestein,2026-08-31 17:44:41.019649,0.8113207547169812,False
+49505062,"SolarWindow launches 0.85 mm-thick, self-adhesive solar film",entertainment,25,17,thelastgallon,2026-08-31 17:44:49.453658,0.6538461538461539,False
+49507101,"Advanced AI threatens global financial stability, says Bank of England boss",worldnews,6,0,theanonymousone,2026-08-31 17:44:59.866322,0.0,False
+49490870,Nancy Grace Roman Space Telescope,sports,289,102,JumpCrisscross,2026-08-31 17:45:02.745465,0.35172413793103446,True
+49491714,Calibrate Before You Accelerate: Bias Toward Action in a New Role,worldnews,182,76,tuckerwales,2026-08-31 17:45:03.710401,0.41530054644808745,True
+49472216,The Twelve-Factor App (2025),entertainment,315,170,jxmorris12,2026-08-31 17:45:04.646030,0.5379746835443038,True
+49456819,Europe's last regular standard-gauge steam passenger service,worldnews,118,27,GungulSurm,2026-08-31 17:45:17.131245,0.226890756302521,False
+49447178,Show HN: Typebase – A single-folder back end you write in TypeScript,entertainment,118,30,andrewww-dev,2026-08-31 17:45:18.063497,0.25210084033613445,False
+49479072,Verschlimmbesserung: The Word Your Software Updates Need,worldnews,178,120,speckx,2026-08-31 17:45:24.596837,0.6703910614525139,True
+49420524,"Show HN: Galaxium, an experimental WebGPU space explorer",science,133,39,guillaumec,2026-08-31 17:45:34.868711,0.291044776119403,False
+49485532,Does the Sumerian King List Align with Paleoclimate Events?,worldnews,134,81,dev_l1x_be,2026-08-31 17:45:42.525303,0.6,False
+49491175,Trees for a Changing Climate and Resilient Urban Forest (2022),worldnews,59,18,mooreds,2026-08-31 17:45:48.101475,0.3,False
+49477559,Smaller reactors bring nuclear power closer to fulfilling its promise,entertainment,157,236,sohkamyung,2026-08-31 17:45:48.970490,1.4936708860759493,False
+49419409,Experiments with Plotter Art,science,99,11,surprisetalk,2026-08-31 17:45:51.824063,0.11,False
+49475979,Interactive Warhammer 40k Galaxy Map,worldnews,161,57,gbxyz,2026-08-31 17:45:52.744047,0.35185185185185186,True
+49481455,Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment,worldnews,120,40,stephenchung,2026-08-31 17:45:55.447089,0.3305785123966942,False
+49486172,Our decision on Cursor following its acquisition by SpaceX,science,839,530,meetpateltech,2026-08-31 17:45:56.380614,0.6309523809523809,True
+49505590,PlayStation wants to prove in court that you don't own your digital games,sports,9,0,Markoff,2026-08-31 17:46:00.027998,0.0,False
+49506148,Forbidden planet: was Pluto's 2006 demotion a big mistake?,science,5,0,ziofill,2026-08-31 17:46:00.955979,0.0,False
+49433573,My life was changed by four sentences in four books,entertainment,41,18,surprisetalk,2026-08-31 17:46:02.261259,0.42857142857142855,False
+49505140,"Google Maps now shows ""Lake America""",worldnews,7,1,tesnorindian,2026-08-31 17:46:03.256285,0.125,False
+49499924,12TB Steam leak reveals unseen Half-Life 2: Episode 3 builds,sports,37,9,sbulaev,2026-08-31 17:46:06.089878,0.23684210526315788,False
+49441316,Global demand for sand spawned a worldwide boom in illegal mining (2015),worldnews,77,29,EndXA,2026-08-31 17:46:17.451794,0.3717948717948718,False
+49476894,Show HN: SubSmith – Turn your own videos into language-learning material,entertainment,75,51,IbrahimF96,2026-08-31 17:46:21.206419,0.6710526315789473,False
+49461817,Show HN: The load-bearing vocabulary of Claude,entertainment,695,326,Labo333,2026-08-31 17:46:23.985263,0.46839080459770116,True
+49501209,Show HN: Hillock: Local neuro-symbolic memory engine in <1.2GB VRAM,entertainment,11,2,roandejager5,2026-08-31 17:46:25.881417,0.16666666666666666,False
+49497500,"Show HN: Drop a SQL schema, get an interactive ER diagram",entertainment,15,5,PatuDev,2026-08-31 17:46:31.507954,0.3125,False
+49505117,2026 Hugo Awards,worldnews,8,1,demritocracy,2026-08-31 17:46:32.459634,0.1111111111111111,False
+49448321,AWS Acquires DuckLabs,science,1102,316,onderkalaci,2026-08-31 17:46:34.328103,0.28649138712601996,True
+49472820,Terminal-Bench-Science: Evaluating AI agents on scientific research workflows,science,117,36,matt_d,2026-08-31 17:46:37.862840,0.3050847457627119,False
+49458875,Humanity has the debate about AI consciousness backwards,worldnews,118,382,semiquaver,2026-08-31 17:46:39.755002,3.2100840336134455,False
+49464314,"MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",science,144,83,pbui,2026-08-31 17:46:43.679489,0.5724137931034483,False
+49499866,Mechanical Panda's Scanning Tunneling Microscope (STM),science,9,0,rickcarlino,2026-08-31 17:46:47.531760,0.0,False
+49477697,Daycare Pseudoscience,science,55,19,surprisetalk,2026-08-31 17:46:55.867533,0.3392857142857143,False
+49483038,"Show HN: Sesame - a local-first, open-source password manager",entertainment,65,85,d0mkaaa,2026-08-31 17:46:57.655700,1.2878787878787878,False
+49468834,Previewing the Model Hardware Standard,worldnews,136,60,surprisetalk,2026-08-31 17:46:59.538109,0.43795620437956206,False
+49497227,Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website,entertainment,32,0,AniketWathore,2026-08-31 17:47:01.384551,0.0,False
+49464391,"US Government designates host of noblogs.org a ""global terrorist""",worldnews,285,160,robtherobber,2026-08-31 17:47:02.321168,0.5594405594405595,True
+49466715,Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots,worldnews,49,31,Salem_robotics,2026-08-31 17:47:07.101599,0.62,False
+49500504,Cheap GPS Jammers Are Filling the World with Navigation Dead Zones,worldnews,13,6,vinnyglennon,2026-08-31 17:47:12.715284,0.42857142857142855,False
+49432201,How credit card rewards became a $9.2B wealth transfer,worldnews,256,451,conbrian,2026-08-31 17:47:14.591551,1.754863813229572,True
+49428343,"Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",entertainment,41,8,gmays,2026-08-31 17:47:21.331750,0.19047619047619047,False
+49471965,"Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",entertainment,227,58,elyosh,2026-08-31 17:47:22.277794,0.2543859649122807,True
+49497922,Show HN: C# Game Engine with its own scripting language and IDE,sports,12,0,am-gm,2026-08-31 17:47:28.832903,0.0,False
+49453161,The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada,worldnews,231,302,mikestorrent,2026-08-31 17:47:29.740001,1.3017241379310345,True
+49490702,GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE),worldnews,316,188,400thecat,2026-08-31 17:47:30.651371,0.5930599369085173,True
+49497779,Show HN: My startup-idea scanner scored 500 ideas; the best got 6.3/10,entertainment,7,4,fayerman,2026-08-31 17:47:33.460449,0.5,False
+49493244,What we want is a hunter gatherer lifestyle with space age tools (2022),science,80,101,bilsbie,2026-08-31 17:47:39.060846,1.2469135802469136,False
+49477925,Interactive pattern discovery in binaries (FF-16-TUI),science,30,3,HexLasso,2026-08-31 17:48:08.729291,0.0967741935483871,False
+49504125,West Point prof fired for continuing to teach human causes of climate change,science,18,5,randycupertino,2026-08-31 17:48:31.383171,0.2631578947368421,False
+49420873,"Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",sports,1003,736,tosh,2026-08-31 17:48:32.269154,0.7330677290836654,True
+49501791,The world may have less time than it thinks on climate change,science,128,143,andsoitis,2026-08-31 17:48:33.220395,1.1085271317829457,False
+49445252,Disrupting a new covert influence campaign from Russia,sports,97,66,sam_lowry_,2026-08-31 17:48:54.147450,0.673469387755102,False
+49498133,Nobody Told Me People Still Code New Games for a 1982 Computer,sports,15,5,01-_-,2026-08-31 17:49:11.267542,0.3125,False
+49466006,Decompiling a Nintendo 64 game in 84 days,sports,270,181,knackers,2026-08-31 17:49:15.526001,0.6678966789667896,True
+49493817,Steve Jobs 8th Grade Science Fair Project: The Silicon-Controlled Rectifier,science,7,0,reaperducer,2026-08-31 17:49:45.043072,0.0,False
+49422784,The entire city of San Francisco as a video game,sports,610,172,centrosphere,2026-08-31 17:49:47.067201,0.281505728314239,True
+49489968,SteamOS 3.9.0 Preview,sports,42,26,EspadaV9,2026-08-31 17:50:39.025076,0.6046511627906976,False
